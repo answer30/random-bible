@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "689431107756",
+    "project_id": "randombible-7ae76",
+    "storage_bucket": "randombible-7ae76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689431107756:android:fb01fc5e86d3a16bcb6709",
+        "android_client_info": {
+          "package_name": "com.answere2022.random_bible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689431107756-03pvagqndrmrppk3iq7unjc2e8rb2m8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGGaDyQnK0qnzcUIRksBYDSHOSfGgeE-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689431107756-03pvagqndrmrppk3iq7unjc2e8rb2m8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
